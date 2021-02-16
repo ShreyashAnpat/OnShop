@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "711163568528",
+    "firebase_url": "https://onshop-c3888.firebaseio.com",
+    "project_id": "onshop-c3888",
+    "storage_bucket": "onshop-c3888.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:711163568528:android:25d73f409a77d5bfa21315",
+        "android_client_info": {
+          "package_name": "com.e.onshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "711163568528-4s9g06scitpeuclhkgjnmqi924nf7qtu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDhIr1k9TPFTeM6BFAfFfPHhsZTF-e1mqU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "711163568528-4s9g06scitpeuclhkgjnmqi924nf7qtu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
